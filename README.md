@@ -1,0 +1,36 @@
+# Nasly Katherine Escobar Ortiz 🚀
+
+👋 **Hello, world!** My name is **Nasly Katherine Escobar Ortiz**, and I'm a passionate **Full Stack Software Engineer**. Since I was 15 years old, I've been immersed in the fascinating world of programming, and it has become my lifelong passion. 💻
+
+## About Me
+
+- 💡 I have a **deep love for clean code** and **solid architecture**.
+- 💙 I **love Flutter** and enjoy creating **mobile applications** that make an impact.
+- 🔥 I'm always excited to explore **new technologies** and stay up to date with the latest trends.
+- 🚀 I have experience working with a variety of **tech stacks**, including:
+
+  - **Java**
+  - **Angular** 🅰️
+  - **Node.js** 🌐
+  - The entire **JavaScript** ecosystem 🚀
+  - **Spring Boot** ☕
+  - **Quarkus**
+ 
+## What I Do
+
+- **Mobile Development**: My heart belongs to **Flutter**, where I enjoy building cross-platform apps with beautiful UI/UX.
+- **Backend Systems**: With **Java** and frameworks like **Spring Boot** and **Quarkus**, I build reliable, scalable server-side applications.
+- **Frontend Magic**: Crafting responsive web applications with **Angular** and embracing the power of the **JavaScript world**.
+
+## Current Focus
+
+I’m currently working on various **Full Stack** projects and diving deeper into **architecture patterns** that allow me to scale applications while maintaining a clean codebase. I’m always looking for new ways to innovate and push the boundaries of what software can do! 🚀
+
+## Let's Connect!
+
+If you're into **Flutter**, **Java**, **Angular**, **Node.js**, or want to talk about building scalable software solutions, feel free to connect with me! I'm always excited to meet fellow developers and exchange ideas. 🌍
+
+📧 **Contact me**: [katheincode@gmail.com](mailto:katheincode@gmail.com) or [nkescobar94@gmail.com](mailto:nkescobar94@gmail.com)
+
+---
+⚡️ *"Keep learning, keep growing!"* ⚡️
