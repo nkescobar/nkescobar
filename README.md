@@ -1,6 +1,6 @@
-# Nasly Katherine Escobar Ortiz 🚀
+# Nasly Katherine Escobar 🚀
 
-👋 **Hello, world!** My name is **Nasly Katherine Escobar Ortiz**, and I'm a passionate **Full Stack Software Engineer**. Since I was 15 years old, I've been immersed in the fascinating world of programming, and it has become my lifelong passion. 💻
+👋 **Hello, world!** My name is **Nasly Katherine Escobar**, and I'm a passionate **Full Stack Software Engineer**. Since I was 15 years old, I've been immersed in the fascinating world of programming, and it has become my lifelong passion. 💻
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
@@ -33,19 +33,6 @@
 ## Current Focus
 
 I’m currently working on various **Full Stack** projects and diving deeper into **architecture patterns** that allow me to scale applications while maintaining a clean codebase. I’m always looking for new ways to innovate and push the boundaries of what software can do! 🚀
-
-## 🎓 Academic Work
-
-I completed my thesis titled [**Smart Campus Communication System**](https://repositorio.uniajc.edu.co/entities/publication/aa354ad4-be6a-4e17-a0c6-c8466668099e), which focuses on leveraging smartphones as pedagogical tools to enhance communication between teachers and students. This project is part of the "Smart Campus" research initiative at Antonio José Camacho University (UNIAJC), specifically under the "Smart People" pillar.
-
-The system facilitates real-time academic communication by providing services such as chat creation, discussion forums, and the sharing of educational resources. It eliminates the need for exchanging personal contact information by using the university’s academic platform, Academusoft, for access.
-
-- The **REST API** was developed in **Node.js** with **MongoDB** as the database.
-- **Firebase Cloud Messaging** was used for notifications.
-- The mobile app was built using **Android Studio** for Android and **Swift** for iOS.
-
-This application aligns with the institution’s pedagogical model and offers a reliable, scalable communication tool for the university community.
-
 
 ## Let's Connect!
 
