@@ -2,6 +2,14 @@
 
 👋 **Hello, world!** My name is **Nasly Katherine Escobar Ortiz**, and I'm a passionate **Full Stack Software Engineer**. Since I was 15 years old, I've been immersed in the fascinating world of programming, and it has become my lifelong passion. 💻
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+
+
 ## About Me
 
 - 💡 I have a **deep love for clean code** and **solid architecture**.
