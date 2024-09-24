@@ -39,6 +39,8 @@ I’m currently working on various **Full Stack** projects and diving deeper int
 If you're into **Flutter**, **Java**, **Angular**, **Node.js**, or want to talk about building scalable software solutions, feel free to connect with me! I'm always excited to meet fellow developers and exchange ideas. 🌍
 
 📧 **Contact me**: [katheincode@gmail.com](mailto:katheincode@gmail.com) or [nkescobar94@gmail.com](mailto:nkescobar94@gmail.com)
+🔗 **LinkedIn**: [Nasly Katherine Escobar Ortiz](https://www.linkedin.com/in/nasly-escobar/)
+
 
 ---
 ⚡️ *"Keep learning, keep growing!"* ⚡️
